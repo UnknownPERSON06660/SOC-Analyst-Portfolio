@@ -15,5 +15,10 @@ BS Computer Science Student
 - Incident Response
 - Detection Engineering
 
-## Featured Projects
-Check my pinned repositories below.
+# Projects
+
+## 1. Wazuh Installation & FIM configuration
+Hands-on SIEM project involving Wazuh deployment, log collection, agent configuration, and File Integrity Monitoring (FIM).
+
+### Repository:
+https://github.com/UnknownPERSON06660/Wazuh-Installation-FIM-Monitoring.git
