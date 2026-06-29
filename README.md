@@ -22,3 +22,10 @@ Hands-on SIEM project involving Wazuh deployment, log collection, agent configur
 
 ### Repository:
 https://github.com/UnknownPERSON06660/Wazuh-Installation-FIM-Monitoring.git
+
+## 2. pfSense Firewall & Wazuh SIEM Integration
+
+Hands-on cybersecurity project involving pfSense firewall deployment, administrative access control, GeoIP-based country blocking with pfBlockerNG, Syslog integration, and centralized firewall log monitoring and analysis using Wazuh SIEM.
+
+### Repository: 
+https://github.com/UnknownPERSON06660/pfsense-wazuh-security-monitoring.git
